@@ -1,5 +1,5 @@
 ---
-name: User stories
+name: Sbd-story
 about: track SBD
 title: ''
 labels: ''
